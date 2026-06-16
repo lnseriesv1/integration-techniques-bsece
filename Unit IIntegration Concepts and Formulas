@@ -1,0 +1,17 @@
+your-repo/
+├── README.md                    ← Main course guide
+├── 01-integration-concepts/     ← Unit I folder
+│   ├── README.md                ← The file I generated
+│   ├── solutions-easy.md
+│   ├── solutions-medium.md
+│   ├── solutions-hard.md
+│   └── exercises/
+│       └── (optional: problem sets)
+├── 02-integration-techniques/     ← Unit II (future)
+│   └── README.md
+├── 03-applications/               ← Unit III (future)
+│   └── README.md
+└── resources/
+    ├── formula-sheet.md
+    ├── trig-identities.md
+    └── derivative-rules.md
